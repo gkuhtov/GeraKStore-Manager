@@ -1,1 +1,0 @@
-This file marks the state after the GitHub metadata/README audit changes on 2026-09-14.
